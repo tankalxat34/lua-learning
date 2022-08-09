@@ -6,3 +6,7 @@ print(karlSum)
 
 CONST_VALUE = 100
 
+
+x, y, z = 1, 2, 3, 4
+
+print(x, y, z)
