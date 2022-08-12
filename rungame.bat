@@ -1,0 +1,1 @@
+"B:\FRAMEWORKS\LOVE\love.exe" "B:\GITHUB\lua-learning"
